@@ -2,7 +2,7 @@ package main;
 
 public class TorpedoTeszt 
 {
-    private Hajo hajo;
+//    private Hajo hajo;
     
     public String tesztLoves(int poz)
     {
